@@ -1,1 +1,2 @@
 Este repositório, refere-se ao último projeto de treinamento do curso de Html Web Developers, da empresa Digital Inovation One. E desenvolvido em javascript, css e html, importante para o aprimoramento das páginas estáticas ou responsivas, dependendo do tipo de acesso entre os dispositivos móveis. Agradeço a esta plataforma de estudos, que ambienta-se as atividades profissionais do Web Developer.
+É MUITO IMPORTANTE, QUE OS ARQUIVOS ESTÃO TODOS NO IDIOMA INGLÊS. 
